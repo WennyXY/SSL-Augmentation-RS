@@ -1,2 +1,2 @@
-## Self-supervised Learning in Remote Sensing Image: Augmentations Exploration
+# Self-supervised Learning in Remote Sensing Image: Augmentations Exploration
 
